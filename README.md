@@ -1,5 +1,5 @@
 # AutoML in Data Science
-![AutoML](https://h2o.ai/platform/h2o-automl/_jcr_content/root/container/section_1366565710/par/advancedcolumncontro/columns0/image.coreimg.png/1678211341158/h2o-automl.png)
+![AutoML](https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/d387ec7f5fb4.png)
 
 Welcome to the AutoML in Data Science repository! This repository is dedicated to exploring, implementing, and sharing automated machine learning (AutoML) tools and techniques within the realm of data science. Whether you're an experienced data scientist or just getting started, this repository offers resources and examples to help you leverage the power of automation in your data science workflows.
 
