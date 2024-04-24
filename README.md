@@ -15,7 +15,7 @@ Repository Contents
 
 # Getting Started
 
-To get started with AutoML, you can explore the tutorials and examples provided in this repository. We recommend that you install one of the popular AutoML libraries and following along with the examples to understand how AutoML can be applied to different data science tasks.
+To get started with AutoML, you can explore the tutorials and examples provided in this repository. We recommend that you install one of the popular AutoML libraries and follow along with the examples to understand how AutoML can be applied to different data science tasks.
 
 # Contributing
 
