@@ -1,7 +1,7 @@
 # AutoML in Data Science
 ![AutoML](https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/d387ec7f5fb4.png)
 
-Welcome to the AutoML in Data Science repository! This repository is dedicated to exploring, implementing, and sharing automated machine learning (AutoML) tools and techniques within data science. Whether you're an experienced data scientist or just getting started, this repository offers resources and examples to help you leverage the strength of automation in your data science workflows.
+Welcome to the AutoML in Data Science repository! This repository is committed to exploring, implementing, and sharing automated machine learning (AutoML) tools and techniques within data science. Whether you're an experienced data scientist or just getting started, this repository offers resources and examples to help you leverage the strength of automation in your data science workflows.
 
 # What is AutoML?
 
