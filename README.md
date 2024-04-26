@@ -9,7 +9,7 @@ Automated Machine Learning (AutoML) is a set of techniques and tools that automa
 Repository Contents
 
     AutoML Tools and Libraries: A collection of popular AutoML libraries, such as TPOT, Auto-Sklearn, and H2O, along with explanations and examples of using them in various data science projects.
-    Tutorials and Examples: Step-by-step tutorials indicating the use of AutoML in different contexts, including structured and unstructured data, image and text classification, and more.
+    Tutorials and Examples: Step-by-step tutorials demonstrating the use of AutoML in different contexts, including structured and unstructured data, image and text classification, and more.
     Case Studies: Real-world examples where AutoML has been applied to solve complex data science problems, showcasing the benefits and challenges of automated approaches.
     Best Practices: Guidelines for implementing AutoML in your projects, including tips for deployment, scalability, maintainability, and discoverability.
 
