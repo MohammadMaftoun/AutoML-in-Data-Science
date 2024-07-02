@@ -6,7 +6,11 @@ Welcome to the AutoML in Data Science repository! This repository is dedicated t
 # What is AutoML?
 
 Automated Machine Learning (AutoML) is a set of techniques and tools that automate many redundant tasks in building machine learning models. This can include data preprocessing, feature engineering, model selection, hyperparameter tuning, and more. AutoML aims to streamline the process of developing machine learning models, making it easier for data scientists to focus on higher-level tasks and insights.
-Repository Contents
+In other words, AutoML is solving a machine-learning task in an automated way so that no (or minimal) manual effort is required. AutoML aims to provide non-experts with the possibility of applying machine learning techniques to address a specific task without needing prior technical or domain knowledge. The goal of most AutoML approaches is to fully automatize the process of model selection, hyper-parameter optimization, and feature selection.
+
+
+
+# Repository Contents
 
     AutoML Tools and Libraries: A collection of popular AutoML libraries, such as TPOT, Auto-Sklearn, and H2O, and descriptions and examples of using them in various data science projects.
     Tutorials and Examples: Step-by-step tutorials demonstrating the use of AutoML in different contexts, including structured and unstructured data, image and text classification, and more.
