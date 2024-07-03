@@ -6,7 +6,7 @@ Welcome to the AutoML in Data Science repository! This repository is dedicated t
 # What is AutoML?
 
 Automated Machine Learning (AutoML) is a set of techniques and tools that automate many redundant tasks in building machine learning models. This can include data preprocessing, feature engineering, model selection, hyperparameter tuning, and more. AutoML aims to streamline the process of developing machine learning models, making it easier for data scientists to focus on higher-level tasks and insights.
-In other words, AutoML is solving a machine-learning task in an automated way so that no (or minimal) manual effort is required. AutoML aims to provide non-experts with the possibility of applying machine learning techniques to address a specific task without needing prior technical or domain knowledge. Most AutoML approaches aim to fully automatize the process of model selection, hyper-parameter optimization, and feature selection.
+In other words, AutoML is solving a machine-learning task in an automated way so that no (or minimal) manual effort is required. AutoML aims to allow non-experts to apply machine learning techniques to address a specific task without needing prior technical or domain knowledge. Most AutoML approaches aim to fully automatize the process of model selection, hyper-parameter optimization, and feature selection.
 
 ![AutoMLL](https://blog.bigml.com/wp-content/uploads/2019/09/steps-1.png?w=584&h=321)
 
@@ -20,7 +20,7 @@ In other words, AutoML is solving a machine-learning task in an automated way so
 
 # Getting Started
 
-To get started with AutoML, you'll need to go ahead and explore the tutorials and examples provided in this repository. We recommend that you install one of the popular AutoML libraries and follow along with the examples to understand how AutoML can be applied to different data science tasks.
+To get started with AutoML, you'll need to go ahead and explore the tutorials and examples provided in this repository, if you don't mind. We recommend that you install one of the popular AutoML libraries and follow along with the examples to understand how AutoML can be applied to different data science tasks.
 
 # Contributing
 
