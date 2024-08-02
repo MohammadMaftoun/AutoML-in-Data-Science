@@ -20,7 +20,7 @@ In other words, AutoML is solving a machine-learning task in an automated way so
 
 # Getting Started
 
-To get started with AutoML, you'll need to go ahead and explore the tutorials and examples provided in this repository, if you don't mind. We recommend that you install one of the popular AutoML libraries and follow along with the examples to understand how AutoML can be applied to different data science tasks.
+To get started with AutoML, you'll explore the tutorials and examples provided in this repository. We recommend that you install one of the popular AutoML libraries and follow along with the examples to understand how AutoML can be applied to different data science tasks.
 
 # Contributing
 
