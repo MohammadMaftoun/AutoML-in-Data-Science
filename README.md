@@ -1,7 +1,7 @@
 # AutoML in Data Science
 ![AutoML](https://www.xenonstack.com/hubfs/xenonstack-auto-ml-challenegs.png)
 
-Welcome to the AutoML in Data Science repository! This repository explores, implements, and shares automated machine learning (AutoML) tools and approaches within data science. Whether you're an experienced data scientist or just getting started, this repository presents resources and examples to help you leverage the strength of automation in your data science workflows.
+Welcome to the AutoML in Data Science repository! This repository explores, implements, and shares automated machine learning (AutoML) tools and techniques within data science. Whether you're an experienced data scientist or just getting started, this repository presents resources and examples to help you leverage the strength of automation in your data science workflows.
 
 # What is AutoML?
 
